@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laouacheria louai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer and AI enthusiast from Algeria</h3>
 
 - 👨‍💻 All of my projects are available at [file:///C:/Users/pc/Desktop/My%20portfolio/index.html](file:///C:/Users/pc/Desktop/My%20portfolio/index.html)
 
